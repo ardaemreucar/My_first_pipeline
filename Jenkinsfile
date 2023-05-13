@@ -8,6 +8,7 @@ pipeline {
                 echo 'not using shell within Jenkinsfile'
                 echo "Merhaba code commit"
                 echo "Hello code commit 2.0"
+                echo "Hellocommit 3.0"
             }
         }        
     }
